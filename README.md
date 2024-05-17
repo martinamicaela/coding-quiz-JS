@@ -6,5 +6,8 @@ https://altcademy.com/blog/top-20-html-technical-questions-in-coding-interviews/
 
 https://www.youtube.com/watch?v=PBcqGxrr9g8&list=PLJKs-oktlBlaoI6AxsfS505LhqkcRqiGx&index=8
 
+- This site is deployed at: 
+ https://martinamicaela.github.io/coding-quiz-JS/
+
 
 
