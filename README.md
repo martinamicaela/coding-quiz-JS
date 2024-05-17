@@ -10,4 +10,9 @@ https://www.youtube.com/watch?v=PBcqGxrr9g8&list=PLJKs-oktlBlaoI6AxsfS505LhqkcRq
  https://martinamicaela.github.io/coding-quiz-JS/
 
 
+Cool features I've learnt with this projects:
+
+  transition: all 0.3s; (css)
+
+
 
